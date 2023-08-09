@@ -1,0 +1,2 @@
+# Portfolio-Project
+I have designed a comprehensive portfolio website using HTML, CSS, and JavaScript to showcase my projects, training experiences, and contact information. The website enables visitors to explore my projects, learn about my industry-relevant training, and easily get in touch by sending messages through the integrated contact form. This interactive platform highlights my skills, projects, and communication capabilities, creating an engaging representation of my professional profile.
